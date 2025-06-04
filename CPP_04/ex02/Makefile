@@ -2,7 +2,7 @@ NAME = animal
 
 CPP = c++
 
-CPP_FLAGS = -Wall -Wextra -Werror -std=c++98
+CPP_FLAGS = -g3 -Wall -Wextra -Werror -std=c++98
 
 FILES =	*.cpp
 
